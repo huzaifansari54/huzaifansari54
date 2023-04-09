@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifansari54&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifansari54" /> </p>
 
-- 🔭 I’m currently working on **Chat_gpt_3_using_ddd_structure**
+- 🔭 I’m currently working on **music app using ddd**
 
 - 🌱 I’m currently learning **Spring boot,DSA**
 
